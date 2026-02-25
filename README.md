@@ -43,7 +43,7 @@ Você pode testar todos os recursos diretamente pelo navegador.
 ## 📸 Documentação Swagger
 
 <p align="center">
-  <img src="docs/swagger.png" width="900">
+  <img src="docs/swagger.jpg" width="900">
 </p>
 
 ---
