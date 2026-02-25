@@ -2,6 +2,8 @@
 
 Projeto de API REST para gerenciamento de contas bancárias, feito em Java com Spring Boot.
 
+---
+
 ## 🛠 Tecnologias usadas
 
 - Java 17
@@ -10,6 +12,8 @@ Projeto de API REST para gerenciamento de contas bancárias, feito em Java com S
 - H2 Database (em memória)
 - Swagger (OpenAPI)
 - Maven
+
+---
 
 ## 📌 Funcionalidades
 
@@ -22,7 +26,7 @@ A API oferece:
 ✔ Sacar valor  
 ✔ Transferir entre contas  
 ✔ Tratamento de erros profissional  
-✔ Documentação Swagger
+✔ Documentação Swagger  
 
 ---
 
@@ -33,6 +37,14 @@ A API oferece:
 👉 `http://localhost:8080/swagger-ui/index.html`
 
 Você pode testar todos os recursos diretamente pelo navegador.
+
+---
+
+## 📸 Documentação Swagger
+
+<p align="center">
+  <img src="docs/swagger.png" width="900">
+</p>
 
 ---
 
